@@ -1,0 +1,13 @@
+com\haikal\produk\controller\ProdukController.class
+com\haikal\produk\model\Order.class
+com\haikal\produk\service\PelangganService.class
+com\haikal\produk\repository\PelangganRepository.class
+com\haikal\produk\repository\OrderRepository.class
+com\haikal\produk\controller\OrderController.class
+com\haikal\produk\controller\PelangganController.class
+com\haikal\produk\service\OrderService.class
+com\haikal\produk\ProdukApplication.class
+com\haikal\produk\model\Produk.class
+com\haikal\produk\service\ProdukService.class
+com\haikal\produk\model\Pelanggan.class
+com\haikal\produk\repository\ProdukRepository.class
